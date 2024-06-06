@@ -35,7 +35,7 @@ async function fromUSD(usd, toKey) {
 async function main() {
     try {
         const dataObject = await readData();
-        
+        console.log(dataObject);
     } catch (error) {
         console.error(error); // Handle errors
     }
