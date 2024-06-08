@@ -1,0 +1,54 @@
+:root {
+    --primary-color: #52796F;
+    --secondary-color: #354F52;
+    --accent-color: #4DD7FA;
+    --text-dark: #2F3E46;
+    --text-light: #e9e9e9;
+    --primary-font: monospace;
+    --secondary-font: ;
+}
+
+body {
+    font-family: var(--primary-font);
+    margin: 0;
+    padding: 20px;
+    color: var(--text-light);
+    font-size: 1.2em;
+    background-color: var(--primary-color);
+}
+
+#currency-container {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: var(--secondary-color);
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.25);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+h1 {
+    text-align: center;
+    color: var(--text-light);
+    grid-column: 1/3;
+    font-size: 2em;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input, select {
+    border: none;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 20px;
+    width: 200px;
+}
+
+select {
+    width: 230px;
+}

@@ -21,6 +21,8 @@
 - [Node.js Environment](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
 - [Currency Conversion Rates JSON](https://www.floatrates.com/daily/usd.json)
 - [JSON File Reading](https://www.geeksforgeeks.org/read-json-file-using-javascript/#)
+- [Options](https://www.w3schools.com/tags/tag_select.asp)
+- [JS adding objects](https://stackoverflow.com/questions/5182772/append-option-to-select-menu)
 
 # Future Work
 
