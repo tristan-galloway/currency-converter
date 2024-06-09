@@ -3,12 +3,13 @@
 This project is designed to show my ability to code in javascript. Specifically working with recursion,
 async functions, JSON objects, and displaying to a browser (including styling using CSS and building the HTML).
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/GTN2H9GQqbA)
 
 # Development Environment
 
-**Node.js** v. 22.2.0
-**Visual Studio Code** v. 1.90.0
+
+**Node.js:** 20.9.0
+**Visual Studio Code:** v. 1.90.0
 
 # Useful Websites
 
